@@ -12,8 +12,8 @@
 
 ## Env
 
-### DB_NAME = datbase name (nestJs or some name you can give)
-### DB_HOST = host your running(mostly localhost)
-### DB_PORT = port your running
-### DB_USERNAME = user name of your database
-### DB_PASSWORD = password of your database user name
+ DB_NAME = datbase name (nestJs or some name you can give)
+ DB_HOST = host your running(mostly localhost)
+ DB_PORT = port your running
+ DB_USERNAME = user name of your database
+ DB_PASSWORD = password of your database user name
